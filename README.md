@@ -18,7 +18,7 @@ Dashboard Pages (Screenshots)
 Dashboard Pages (Screenshots)
 
 1. Executive Summary
-![Executive Summary](01_Executive_Summary.png)
+![Executive Summary](01_Executive_Summary..png)
 
 
 2) Branch Performance
