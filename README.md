@@ -17,28 +17,23 @@ Data modeling & relationships
 Dashboard Pages (Screenshots)
 
 1) Executive Summary
-![Executive Summary]
+   ![Executive Summary](01_Executive_Summary.png)
 
-### 2) Branch Performance
+ 3) Branch Performance
 ![Branch Performance](02_Branch_Performance.png)
 
-### 3) Geographic Insight
+ 4) Geographic Insight
 ![Geographic Insight](Geographic%20Insight.png)
 
-### 4) Profitability & Expense Analysis
+5) Profitability & Expense Analysis
 ![Profitability & Expense Analysis](Profitability%20%26%20Expense%20Analysis.png)
 
-### 5) Detailed Transactions / Drill-Down
+6) Detailed Transactions / Drill-Down
 ![Detailed Transactions](Detailed%20Transactions%20.png)
 
----
+Files in this Repository
+U.S. Branch Financial Performance Dashboard (Actual vs Budget).pdf (exported report)
+PNG screenshots for each dashboard page
+README documentation
 
-## Files in this Repository
-- **U.S. Branch Financial Performance Dashboard (Actual vs Budget).pdf** (exported report)
-- PNG screenshots for each dashboard page
-- README documentation
 
----
-
-## How to View
-- Download and open the PDF report from this repo, or view the screenshots above.
