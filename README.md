@@ -15,20 +15,21 @@ DAX Measures
 Data modeling & relationships
 
 Dashboard Pages (Screenshots)
+Dashboard Pages (Screenshots)
 
 1) Executive Summary
-   ![Executive Summary](01_Executive_Summary.png)
+![Executive Summary](01_Executive_Summary.png)
 
- 3) Branch Performance
+2) Branch Performance
 ![Branch Performance](02_Branch_Performance.png)
 
- 4) Geographic Insight
+3) Geographic Insight
 ![Geographic Insight](Geographic%20Insight.png)
 
-5) Profitability & Expense Analysis
+4) Profitability & Expense Analysis
 ![Profitability & Expense Analysis](Profitability%20%26%20Expense%20Analysis.png)
 
-6) Detailed Transactions / Drill-Down
+5) Detailed Transactions / Drill-Down
 ![Detailed Transactions](Detailed%20Transactions%20.png)
 
 Files in this Repository
