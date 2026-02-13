@@ -17,8 +17,9 @@ Data modeling & relationships
 Dashboard Pages (Screenshots)
 Dashboard Pages (Screenshots)
 
-1) Executive Summary
+1. Executive Summary
 ![Executive Summary](01_Executive_Summary.png)
+
 
 2) Branch Performance
 ![Branch Performance](02_Branch_Performance.png)
