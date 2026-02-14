@@ -33,9 +33,9 @@ Dashboard Pages (Screenshots)
 5) Detailed Transactions / Drill-Down
 ![Detailed Transactions](Detailed%20Transactions%20.png)
 
-Files in this Repository
-U.S. Branch Financial Performance Dashboard (Actual vs Budget).pdf (exported report)
-PNG screenshots for each dashboard page
+Files in this Repository:
+U.S. Branch Financial Performance Dashboard (Actual vs Budget).pdf (exported report),
+PNG screenshots for each dashboard page,
 README documentation
 
 
